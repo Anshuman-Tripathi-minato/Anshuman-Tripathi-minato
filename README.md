@@ -16,7 +16,7 @@
 <h2>🛠️ Skills & Tools</h2>
 
 <div align="center">
-  <table style="border: none; width: 100%; table-layout: fixed;">
+  <table width: 100%;">
     <tr>
       <td align="center" valign="top" width="33%">
         <h3>Languages:</h3>
