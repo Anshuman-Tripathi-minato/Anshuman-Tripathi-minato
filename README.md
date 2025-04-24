@@ -13,7 +13,6 @@
 - 🔗 All my projects: [GitHub/Anshuman-Tripathi-minato](https://github.com/Anshuman-Tripathi-minato)
 
 ---
-
 <h2>🛠️ Skills & Tools</h2>
 
 <div align="center">
@@ -46,8 +45,6 @@
     </tr>
   </table>
 </div>
-
-
 
 ---
 
