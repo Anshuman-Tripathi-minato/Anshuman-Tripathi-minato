@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- HOLOGRAPHIC HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ANSHUMAN%20TRIPATHI&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Architecting%20Autonomous%20AI%20%7C%20Building%20The%20Future&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ANSHUMAN%20TRIPATHI&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Agentic%20AI%20Architect&descAlignY=65&descAlign=50&descSize=25" />
+
 
 <br/><br/>
 
