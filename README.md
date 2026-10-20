@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/anshuman-tripathi-3b570a259/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://anshuman.online](https://portfolio-one-xi-0vf19jk40u.vercel.app/#psec">
+<a href="https://portfolio-one-xi-0vf19jk40u.vercel.app/#psec">
   <img src="https://img.shields.io/badge/Portfolio-Visit-F5C542?style=flat&logo=googlechrome&logoColor=111111" alt="Portfolio" />
 </a>
 <a href="mailto:tripathianshuman18@gmail.com">
